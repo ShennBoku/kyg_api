@@ -5,7 +5,7 @@ name 'kyg_api'
 lua54 'yes'
 author 'ShennBoku'
 version '1.0.0'
-discord 'https://discord.gg/K5SHYJVHDb'
+discord 'https://discord.gg/XGaNQZ8R2e'
 description 'KYG API Connection'
 
 shared_scripts {
